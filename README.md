@@ -3,9 +3,6 @@
 
 This project aims to predict yearly spending of e-commerce customers using data features related to their behavior on the website and mobile app. The workflow includes Exploratory Data Analysis (EDA), visualization, feature selection, linear regression modeling, and performance evaluation.
 ---
-# Kaggle Link: https://www.kaggle.com/code/elkholyjr/ecommerce-spending-prediction
----
-
 ## 📌 Project Overview
 
 **Goal:**  
@@ -57,7 +54,8 @@ To predict the annual amount spent by an e-commerce customer based on user activ
 - SciPy
 
 ---
-
+# Kaggle Link: https://www.kaggle.com/code/elkholyjr/ecommerce-spending-prediction
+---
 ## 📌 Insights & Notes
 - Mobile app usage had stronger correlation with spending than website usage.
 - Linear Regression provided reasonable error metrics and residuals distribution aligned with assumptions.
